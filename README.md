@@ -7,7 +7,7 @@
 - **BG**:Background       •**WB**:Waterbody   •**WR**:Wrecks/ruins
 - **AP**:Aquatic plants   •**PI**:Pipelines   •**SC**:Sea cucumber
 ## Downloads
-The data is available for download on [Google Drive](https://drive.google.com/drive/folders/1ph2yyw4R5Y1WXtUnBVdkbWVyqu8m1Vt9?usp=sharing).  
+The data is available for download on [Google Drive](https://drive.google.com/file/d/1SCom7vjxjDyYiOaZScuPX8rP6DEJXmCe/view?usp=sharing).  
 
 On extraction, the downloaded file results in the following directory
 
