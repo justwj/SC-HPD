@@ -17,4 +17,4 @@ On extraction, the downloaded file results in the following directory
             JPEGImages/
                 600 RGB images.
             SegmentationClass/
-                600 ground-truth segmentation masks.
+                600 ground-truth segmentation labels.
